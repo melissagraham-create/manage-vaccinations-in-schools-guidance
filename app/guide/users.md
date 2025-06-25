@@ -39,3 +39,5 @@ If users are added to the `mavissuperusers` workgroup, they can:
 - delete vaccination records
 
 Superusers still need to be assigned to the `schoolagedimmunisations` workgroup and be given a role.
+
+We recommend there are at least 2 superusers per organisation.
