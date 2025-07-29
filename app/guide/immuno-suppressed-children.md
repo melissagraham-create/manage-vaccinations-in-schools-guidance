@@ -26,5 +26,9 @@ As you cannot add children who need second or third doses to upcoming sessions i
 2. Record the additional HPV dose in a spreadsheet, offline.
 3. Upload the spreadsheet into Mavis - this will import the new HPV vaccination to the child’s record. 
 
-^Mavis does not currently distinguish between first, second or third doses of the HPV vaccine, so each time a dose is recorded, the status will show as ‘Vaccinated’ for HPV. 
+{% from "inset-text/macro.njk" import insetText %}
+{{ insetText({
+  html: "Mavis does not currently distinguish between first, second or third doses of the HPV vaccine, so each time a dose is recorded, the status will show as ‘Vaccinated’ for HPV."
+}) }}
+
 For details on how to upload vaccinations recorded on a spreadsheet into Mavis, see the ‘Recording vaccinations offline’ section of the user guide. 
