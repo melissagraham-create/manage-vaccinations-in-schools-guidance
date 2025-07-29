@@ -1,10 +1,10 @@
 ---
 title: Downloading vaccination reports
-group: Programmes
-order: 13
+group: Statistics and reports
+order: 25
 eleventyComputed:
   eleventyNavigation:
-    key: Downloading reports
+    key: Downloading vaccination reports
 ---
 
 [[toc]]

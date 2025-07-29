@@ -1,7 +1,7 @@
 ---
 title: Handling HPV vaccinations for immunosuppressed children
-group: Sessions
-order: 35
+group: Recording vaccinations
+order: 20
 eleventyComputed:
   eleventyNavigation:
     key: Handling HPV vaccinations for immunosuppressed children

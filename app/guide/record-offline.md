@@ -1,7 +1,10 @@
 ---
-title: Recording offline
-group: Sessions
-order: 31
+title: Recording vaccinations offline
+group: Recording vaccinations
+order: 22
+eleventyComputed:
+  eleventyNavigation:
+    key: Recording vaccinations offline
 ---
 
 To record vaccinations in Mavis, you need to have internet access. If a reliable internet connection is not available, you should work offline instead.
@@ -78,6 +81,7 @@ Before uploading the spreadsheet, you first have to save a copy of the data from
 
 1. Open the spreadsheet in Excel.
 2. Go to **File > Save a copy** and then choose format “CSV UTF-8 (Comma delimited) (.csv)” and save it.
+3. A dialog box displays telling you that this file format does not support multiple sheets - click on OK.
 
 Then in Mavis:
 

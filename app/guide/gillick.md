@@ -1,7 +1,7 @@
 ---
-title: To assess Gillick competence
-group: Sessions
-order: 33
+title: Assessing Gillick competence
+group: Recording vaccinations
+order: 18
 eleventyComputed:
   eleventyNavigation:
     key: Gillick assessment
@@ -20,7 +20,7 @@ To assess Gillick competence for a child with no consent response:
 
 If the child is assessed as Gillick competent, you still need to add a consent response:
 
-1. Scroll to the Consent response section on the child’s record and click on **Get consent response**.
+1. Under the Consent response section on the child’s record and click on **Record a new consent response**.
 
 ![Screenshot of selecting a Gillick competent child.](/assets/images/session-consent-gillick-competent.png)
 
