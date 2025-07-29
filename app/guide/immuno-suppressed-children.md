@@ -1,16 +1,34 @@
 ---
-title: Vaccinating immuno-suppressed children
+title: Handling HPV vaccinations for immunosuppressed children
 group: Recording vaccinations
 order: 20
 eleventyComputed:
   eleventyNavigation:
-    key: Vaccinating immuno-suppressed children
+    key: Handling HPV vaccinations for immunosuppressed children
 ---
 
-After the first dose, Mavis won’t automatically include immuno-suppressed children in additional school sessions or clinics.
+Children who are immunosuppressed should have 3 doses of the HPV vaccine over a 12 month period. 
 
-Mavis won’t automatically let parents know that their child needs a second or third dose, or where to get it.
+You can use Mavis in the usual way to:
 
-Mavis can be used to get consent from the parent for the first vaccination, and the consent can be viewed in the global patient view for doses 2 and 3.
+* get consent for the first dose of the HPV vaccine
+* record the vaccination
 
-Do not record second or third vaccinations for immuno-suppressed children in Mavis. You should record them offline in a spreadsheet and then import the records into Mavis.
+After the first dose, Mavis will not automatically include immunosuppressed children in additional school sessions or clinics.
+
+Mavis will not let parents know that their child needs a second or third dose, or where to get it.
+
+The consent that was given for the first vaccination will remain on the child’s record in Mavis, and will be valid for subsequent doses of the vaccine. 
+
+As you cannot add children who need second or third doses to upcoming sessions in Mavis, you should:
+
+1. Invite the child to the relevant session by phone or email (you’ll also need to confirm health information for the child). 
+2. Record the additional HPV dose in a spreadsheet, offline.
+3. Upload the spreadsheet into Mavis - this will import the new HPV vaccination to the child’s record. 
+
+{% from "inset-text/macro.njk" import insetText %}
+{{ insetText({
+  html: "Mavis does not currently distinguish between first, second or third doses of the HPV vaccine, so each time a dose is recorded, the status will show as ‘Vaccinated’ for HPV."
+}) }}
+
+For details on how to upload vaccinations recorded on a spreadsheet into Mavis, see the ‘Recording vaccinations offline’ section of the user guide. 
