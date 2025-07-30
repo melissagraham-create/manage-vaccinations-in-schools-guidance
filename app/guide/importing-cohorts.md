@@ -31,6 +31,8 @@ The cohort should include all children in your SAIS team’s area, as follows:
 
 You’ll only need to upload the older year groups the first time you use Mavis. Once the cohort has been set up and used to record vaccinations for a particular year group, those records will stay in Mavis.
 
+### Preparing files for upload
+
 To upload cohort records, use the following template:
 
 {% from "attachment/macro.njk" import attachment %}
@@ -40,9 +42,16 @@ To upload cohort records, use the following template:
   href: "/files/cohort-import-template.xlsx"
 }) }}
 
-Make sure the cohort records are in the format shown in the template above. Files need to be in .csv format. Records can be all in one file, or split across multiple files; Mavis is not picky about this. If you have an excel file with multiple tabs, you will need to consolidate this into a single tab or create a separate CSV file for each tab.
+Make sure the cohort records are in the format shown in the template above. Files need to be in .csv format. Records can be all in one file, or split across multiple files. If you have an excel file with multiple tabs, you will need to consolidate this into a single tab or create a separate CSV file for each tab.
 
-1. Go to the **Import** tab.
+{% from "inset-text/macro.njk" import insetText %}
+{{ insetText({
+  html: "Large cohort files can fail to upload, due to their size. If your CSV file has over 10,000 rows, we recommend you split it into smaller files - for example 2 files with 5,000 rows."
+}) }}
+
+### How to upload a cohort file
+
+1. From the dashboard, go to **Import records** (or click on Imports in the top navigation).
 2. Click on the **Import records** button near the top of the page.
 3. Select **Child records**, then click Continue.
 4. Click on **Choose File**, then select the CSV file you want to import.
@@ -51,7 +60,7 @@ Make sure the cohort records are in the format shown in the template above. File
 
 ![Screenshot of programme cohorts tab.](/assets/images/programme-cohorts.png 'Mavis shows the number of children within each programme cohort.')
 
-Once the file has finished importing, there may be some import issues which you need to review before doing anything else.
+Once the file has finished uploading, there may be some import issues which you need to review before doing anything else.
 
 ## Resolving issues when uploading files
 
