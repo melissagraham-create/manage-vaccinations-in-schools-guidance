@@ -25,6 +25,7 @@ You can change a consent response in Mavis:
 To change a consent response, you need to record a new response from the parent who gave the original response.
 
 Follow the instructions from step 3 in **Recording a new consent response** to record the new response.
+
 The new consent from the same parent will override the previous one.
 
 ## Withdrawing a consent response 
