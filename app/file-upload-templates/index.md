@@ -17,6 +17,8 @@ You can use our file upload templates to check:
 
 You can download the templates to create your own files, or view them for reference.
 
+Select the template you want to look at in the menu on this page.
+
 For detailed instructions on uploading files, see the following sections of the Mavis user guide:
 * [Importing cohorts into Mavis](guide/importing-cohorts.md)
 * [Adding vaccination history](guide/vaccination-history.md)
