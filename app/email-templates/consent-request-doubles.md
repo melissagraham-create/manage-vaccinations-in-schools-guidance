@@ -13,7 +13,7 @@ We’re coming to ==location name== on ==next session dates== to offer the follo
 We would like your consent to vaccinate ==short patient name==. You can respond by filling in our online form.
 
 > [!NOTE]
-> Dnot reply to this email to tell us your decision. The link to the online consent form is below.
+> Do not reply to this email to tell us your decision. The link to the online consent form is below.
 
 ## About the MenACWY vaccine
 
