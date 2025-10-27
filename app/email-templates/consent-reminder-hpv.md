@@ -9,8 +9,8 @@ We wrote to you recently about a visit by a local health team to ==location name
 
 If you want your child to get the HPV vaccination, you need to give consent by ==consent deadline==.
 
-[!NOTE]
-Do not reply to this email to tell us your decision. The link to the online consent form is below.
+> [!NOTE]
+> Do not reply to this email to tell us your decision. The link to the online consent form is below.
 
 If you’ve already responded to the consent request, you can ignore this message.
 
