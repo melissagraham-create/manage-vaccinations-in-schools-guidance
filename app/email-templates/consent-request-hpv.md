@@ -5,7 +5,10 @@ subject: HPV vaccination for ==patient name==
 order: 3
 ---
 
-We're coming to ==location name== on ==next session dates== to give the human papillomavirus (HPV) vaccine. We would like your consent to vaccinate ==patient name==. You can give this by filling in our online form (the link is below).
+We're coming to ==location name== on ==next session dates== to give the human papillomavirus (HPV) vaccine. We would like your consent to vaccinate ==patient name==. You can respond by filling in our online form.
+
+> [!NOTE]
+> Do not reply to this email to tell us your decision. The link to the online consent form is below.
 
 ### What the vaccine is for
 
@@ -30,6 +33,8 @@ The HPV vaccine works best if it’s given before young people become sexually a
 
 ==consent URL==
 
+If you do not respond, you’ll get automatic reminders. Responding will stop reminders.
+
 ### Talk to your child about what they want
 
 We suggest you talk to ==patient name== about the vaccination before you respond to us.
@@ -38,7 +43,8 @@ Young people have the right to refuse vaccinations. Those who show [Gillick comp
 
 ### If you cannot use the online form
 
-If you cannot use the online form, you can respond over the phone using the contact details below.
+If you cannot use the online form, you can respond over the phone using the contact details below. Replies to this email cannot be accepted as consent. 
+
 
 ### Your data
 
