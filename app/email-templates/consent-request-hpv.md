@@ -50,6 +50,6 @@ If you cannot use the online form, you can respond over the phone using the cont
 
 By responding, you’re agreeing to your data being processed as set out in our privacy notice: ==privacy notice URL==.
 
-### Contact the local health team
+### Get in touch with us
 
 Speak to a member of the local health team by calling ==team phone number==, or email ==team email address==.
