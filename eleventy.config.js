@@ -13,7 +13,9 @@ export default function (eleventyConfig) {
         text: serviceName
       }
     },
-    headingPermalinks: true,
+    markdown: {
+      headingPermalinks: true
+    },
     templates: {
       searchIndex: true
     }
