@@ -10,7 +10,10 @@ We’re coming to ==location name== on ==next session dates== to offer the follo
 * MenACWY
 * Td/IPV (also called the 3-in-1 teenage booster)
 
-We would like your consent to vaccinate ==short patient name==. You can give this by filling in our online form (the link is below).
+We would like your consent to vaccinate ==short patient name==. You can respond by filling in our online form.
+
+> [!NOTE]
+> Do not reply to this email to tell us your decision. The link to the online consent form is below.
 
 ## About the MenACWY vaccine
 
@@ -41,6 +44,8 @@ It’s offered at around 13 or 14 years old (school year 9 or 10). It boosts the
 
 You need to respond by ==consent deadline==.
 
+If you do not respond, you’ll get automatic reminders. Responding will stop reminders.
+
 ## Talk to your child about what they want
 
 We suggest you talk to your child about the vaccinations before you respond to us.
@@ -49,7 +54,7 @@ Young people have the right to refuse vaccinations. Those who show [‘Gillick c
 
 ## If you cannot use the online form
 
-If you cannot use the online form, you can respond over the phone using the contact details below.
+If you cannot use the online form, you can respond over the phone using the contact details below. Replies to this email cannot be accepted as consent. 
 
 ## Your data
 
