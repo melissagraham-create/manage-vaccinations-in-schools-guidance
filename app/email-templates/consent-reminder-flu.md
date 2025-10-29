@@ -9,6 +9,9 @@ We wrote to you recently to let you know we're coming to ==location name== on ==
 
 If you want your child to be vaccinated, you need to give consent by ==consent deadline==.
 
+> [!NOTE]
+> Do not reply to this email to tell us your decision. The link to the online consent form is below.
+
 If you’ve already responded to the consent request, you can ignore this message.
 
 ### About the children's flu vaccine
@@ -23,7 +26,7 @@ You can also find a range of [information resources about the vaccine on GOV.​
 
 Most children are given the vaccine as a nasal spray. This is a quick and painless spray up the nose and offers the best protection against flu.
 
-The nasal spray contains a small amount of gelatine derived from pigs (porcine gelatine). If your child does not use gelatine products, or cannot have the nasal spray for medical reasons, they could have an injection instead.
+The nasal spray contains a small amount of gelatine derived from pigs (porcine gelatine). If your child does not use gelatine products, or cannot have the nasal spray for medical reasons, you can choose an alternative injected vaccine that has no gelatine or any other animal product. You can request this in the consent form.
 
 [Find out more about the use of gelatine in the flu vaccine (including the views of faith communities)](https://www.gov.uk/government/publications/vaccines-and-porcine-gelatine)
 
@@ -36,9 +39,9 @@ The nasal spray contains a small amount of gelatine derived from pigs (porcine g
 
 The response deadline is ==consent deadline==.
 
-If you do not respond, you’ll be sent automatic reminders. Responding will stop reminders.
+If you do not respond, you’ll get automatic reminders. Responding will stop reminders.
 
-If you cannot use the online form, you can respond over the phone using the contact details below.
+If you cannot use the online form, you can respond over the phone using the contact details below. Replies to this email cannot be accepted as consent. 
 
 ### Your data
 
