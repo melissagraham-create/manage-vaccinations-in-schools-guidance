@@ -14,13 +14,14 @@ Our vaccination management system uses information from Get Information about Sc
 It’s important that your school’s details in GIAS are correct and up to date.
 
 Please check your school’s GIAS record and update it if needed. In particular, make sure the following are accurate:
+
 - unique reference number (URN)
 - age range of pupils
 - number of pupils
-  
+
 ### How to update your GIAS record
 
-To make changes, [sign in with your DfE Sign-in account](https://services.signin.education.gov.uk/). 
+To make changes, [sign in with your DfE Sign-in account](https://services.signin.education.gov.uk/).
 If you do not have access, ask your school’s DfE Sign-in approver. They can give access to colleagues.
 
 ### Find out more

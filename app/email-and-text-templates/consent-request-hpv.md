@@ -44,8 +44,7 @@ Young people have the right to refuse vaccinations. Those who show [Gillick comp
 
 ### If you cannot use the online form
 
-If you cannot use the online form, you can respond over the phone using the contact details below. Replies to this email cannot be accepted as consent. 
-
+If you cannot use the online form, you can respond over the phone using the contact details below. Replies to this email cannot be accepted as consent.
 
 ### Your data
 

@@ -4,20 +4,20 @@ theme: Managing PSDs
 order: 18
 ---
 
-You can review and add patient specific directions (PSDs) to named children in flu sessions so that healthcare assistants can give them the nasal spray vaccine. 
+You can review and add patient specific directions (PSDs) to named children in flu sessions so that healthcare assistants can give them the nasal spray vaccine.
 
 Note that:
+
 - this feature must be turned on for the session (see previous page)
 - only prescribers can add PSDs
 - all users can see each child’s PSD status
-
 
 ## Reviewing PSDs for a session
 
 To see which children in a session have, or do not have, a PSD:
 
 1. Go to the relevant session in Mavis.
-2. Go to the **PSDs** tab. This takes you to the **Review PSDs** page. 
+2. Go to the **PSDs** tab. This takes you to the **Review PSDs** page.
 3. You’ll see a list of all the children in the cohort for the session, with their PSD status.
 4. You can use filters to show only:
    - children who have had a PSD added to their record
@@ -39,17 +39,18 @@ A message at the top of the screen tells you how many children there are with co
 To add PSDs in bulk to these children:
 
 1. Select **Add new PSDs**.
-2. On the confirmation page, select **Yes, add PSDs** (or **No, return to session**). 
+2. On the confirmation page, select **Yes, add PSDs** (or **No, return to session**).
 
-If you select Yes, the PSDs will be bulk-added instantly. 
+If you select Yes, the PSDs will be bulk-added instantly.
 
 ## Adding PSDs during triage
 
-Prescribers can also add PSDs to individual children during triage if they assess it’s safe for them to have the nasal spray vaccine. 
+Prescribers can also add PSDs to individual children during triage if they assess it’s safe for them to have the nasal spray vaccine.
 
 ## If a child’s triage status changes
 
 If a child has a PSD in place, Mavis will automatically remove it if:
+
 - a new consent response indicates triage is needed
 - a nurse updates the child’s triage status to ‘Needs triage’
 

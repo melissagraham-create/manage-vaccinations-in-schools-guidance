@@ -33,8 +33,8 @@ The HPV vaccine works best if it’s given before young people become sexually a
 
 ### How to respond
 
-[!NOTE]
-It’s important to let us know whether you do or do not want your child to have the vaccination. It will take less than 5 minutes to respond using the link below. You need to respond by ((consent_deadline)).
+> [!NOTE]
+> It’s important to let us know whether you do or do not want your child to have the vaccination. It will take less than 5 minutes to respond using the link below. You need to respond by ((consent_deadline)).
 
 ==consent URL==
 

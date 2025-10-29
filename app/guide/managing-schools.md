@@ -5,6 +5,7 @@ order: 3
 ---
 
 You need to provide a list of schools in your area:
+
 - when you start using Mavis
 - when offering a new vaccination programme through Mavis for the first time (for example, if you only provided secondary schools previously, and now you want to offer vaccinations in primary schools)
 

@@ -7,7 +7,7 @@ eleventyComputed:
     key: Cohort list upload template
 ---
 
-This template shows what information you need to upload when importing cohorts into Mavis. 
+This template shows what information you need to upload when importing cohorts into Mavis.
 
 {% from "attachment/macro.njk" import attachment %}
 {{ attachment({

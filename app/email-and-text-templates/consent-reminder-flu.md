@@ -42,7 +42,7 @@ The response deadline is ==consent deadline==.
 
 If you do not respond, you’ll get automatic reminders. Responding will stop reminders.
 
-If you cannot use the online form, you can respond over the phone using the contact details below. Replies to this email cannot be accepted as consent. 
+If you cannot use the online form, you can respond over the phone using the contact details below. Replies to this email cannot be accepted as consent.
 
 ### Your data
 
