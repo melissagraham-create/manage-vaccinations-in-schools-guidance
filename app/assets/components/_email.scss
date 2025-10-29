@@ -44,4 +44,20 @@
       content: "))";
     }
   }
+
+  // Make inset text better match to GOV.UK Notify appearance
+  .nhsuk-inset-text {
+    border-color: nhsuk-colour("grey-3");
+    margin-bottom: nhsuk-spacing(4);
+    margin-top: nhsuk-spacing(4);
+    padding-bottom: nhsuk-spacing(3);
+    padding-top: nhsuk-spacing(3);
+  }
+
+  // Disable link styles for headings
+  .app-link--heading {
+    @include nhsuk-link-style-text;
+
+    text-decoration: none;
+  }
 }
