@@ -17,11 +17,12 @@ If you later find out that a child has already been vaccinated, you can update t
 
 You should include vaccination records for anyone in the cohort who was vaccinated elsewhere, if you have them. These records will be stored in Mavis and will not be sent anywhere else.
 
-###What vaccination history you need to upload
+### What vaccination history you need to upload
 
 How much vaccination history you need to upload depends on the programme. 
 
-[INSET TEXT] If you do not upload vaccination histories for a year group, but then you schedule a session that includes that year group, the parents of every child in that year will get a consent request, including those already vaccinated.
+> [!NOTE]
+> If you do not upload vaccination histories for a year group, but then you schedule a session that includes that year group, the parents of every child in that year will get a consent request, including those already vaccinated.
 
 #### Flu
 Do not upload flu vaccination records from previous academic years. 
