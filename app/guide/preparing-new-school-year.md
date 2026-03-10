@@ -23,7 +23,7 @@ From 1 August you can:
 
 All consent, triage, and PSD results expire at the end of each school year so you will need to add this information again in the new school year.
 
-Any children who are eligible for vaccination but have moved to a year group not supported by their school (for example Year 6 children moving to year 7 or children leaving middle schools) will be automatically assigned to community clinic sessions (until you upload the new cohort).
+Any children who are eligible for vaccination but have moved to a year group not supported by their school (for example Year 6 children moving to year 7 or children leaving middle schools) will be automatically assigned to '**No known school**' (until you upload the new cohort).
 
 Children who have aged out of programmes (such as Year 12 or Year 15 in SEN schools) will no longer be shown in the list of child records in Mavis, but you can choose to include those children through **Advanced filters**.
 
