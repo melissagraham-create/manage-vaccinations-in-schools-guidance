@@ -42,7 +42,7 @@ The same button can be used to send reminders.
 
 Mavis no longer sends automatic clinic invitations to children who are home-schooled or have no known school.
 
-You will soon be able to send invitations to these children manually. Invitations will be sent to all children who:
+You will soon be able to send invitations manually to children who:
 
 - are home-schooled or have no known school
 - are due a vaccination for the programme you select
