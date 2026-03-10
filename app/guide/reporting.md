@@ -9,7 +9,7 @@ order: 34
 You can download vaccination reports as CSV files which you can share with your CHIS provider, GP practices or others.
 
 > [!NOTE]
-> You do not need to share reports for flu or HPV with GPs (except in some cases of self-consent), as Mavis does this automatically but you still need to download and share reports with the local CHIS team.
+> You do not need to share reports vaccination records with GPs (except in some cases of self-consent), as Mavis does this automatically, but you still need to download and share records with the local CHIS team.
 
 To download a report:
 
