@@ -25,7 +25,7 @@ Filling in the form will be quick and easy. It’s important to respond, even if
 
 To allow the NHS immunisation team to contact you, we will give them:
 
-- your child’s name and class
+- your child’s name, date of birth, postcode and school class
 - your email address and mobile phone number
 
 These details will only be used to send messages about your child’s vaccinations.
