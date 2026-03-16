@@ -13,14 +13,26 @@ You can do this through the link in your **Getting ready to use Mavis** email or
 
 > [!NOTE]
 > It’s important to include the correct unique reference number (URN) for each school on your list. Mavis gets the information it shows about schools (including which year groups attend the school) using the URNs you provide.
+>
+If your team is responsible for a school, but it was not included in your list, you can add it to Mavis manually.
 
-If you need to add or remove a school, [contact the Mavis team](mailto:england.mavis@nhs.net).
+1. Go to the **Team** tab.
+2. Select **Schools**.
+3. Select **Add a new school**.
+4. Enter the school URN and select **Continue**.
+5. If this is the school you want to add, select **Yes, add this school**. If not, select **No** and enter the correct URN.
+6. Review the school details and select **Add school**.
+
+> [!NOTE]
+> You cannot add a school if it is already assigned to another team in Mavis.
+
+If you need to remove a school, [contact the Mavis team](mailto:england.mavis@nhs.net).
 
 You can update children's schools on their record. See [Editing individual child records](editing-cohorts.md).
 
 ## Adding school sites
 
-If a school has more than 1 site you need to add them in Mavis.
+If a school has more than 1 site you can add them in Mavis.
 
 1. Go to **Team** by selecting it in the top navigation.
 2. Select **Schools** under the **Your team** heading.
@@ -46,3 +58,14 @@ When you name a school site, consider the following points:
 - each site name must be unique
 - site names appear in emails and text messages to parents, and the online consent form, so the name should be clear to parents
 - schools and sites are listed alphabetically in Mavis - if you want to see a school and its sites appear together, start each site name with the school name, for example, ‘Parkview School, Station Road site’
+
+### Editing school sites
+
+You can edit a site’s name and/or address.
+
+1. Go to the **Team** tab.
+2. Select **Schools**.
+3. Find the site you need to amend and click **Edit**.
+4. Change the site’s name and/or address and select **Continue**.
+5. Review the updated information and select **Save changes**.
+
