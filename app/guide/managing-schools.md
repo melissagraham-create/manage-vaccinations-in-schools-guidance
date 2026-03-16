@@ -20,7 +20,7 @@ You can update children's schools on their record. See [Editing individual child
 
 ## Adding school sites
 
-If a school has more than 1 site you need to add them in Mavis.
+If a school has more than 1 site you can add them in Mavis.
 
 1. Go to **Team** by selecting it in the top navigation.
 2. Select **Schools** under the **Your team** heading.
