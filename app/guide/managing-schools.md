@@ -61,7 +61,7 @@ When you name a school site, consider the following points:
 
 ### Editing school sites
 
-- You can edit a site’s name and/or address.
+You can edit a site’s name and/or address.
 
 1. Go to the **Team** tab.
 2. Select **Schools**.
