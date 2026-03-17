@@ -11,8 +11,6 @@ You do not need to inform NHS England and GP practices of any vaccinations, exce
 - the vaccinations were recorded before 2 March 2026
 - a child self-consented under Gillick competence and asked for their parents not to be notified (see below)
 
-If a child’s record does not include an NHS number, Mavis cannot automatically send any vaccination recorded for them to their GP practice.
-
 > [!NOTE]
 > You still need to send all vaccination records to CHIS. You should let your CHIS provider know that they do not need to send vaccination records to GP practices because Mavis does this automatically.
 
@@ -25,6 +23,22 @@ The child’s vaccination record in Mavis will show a **Synced** label when it w
 The record will show a **Sync pending** label if it’s in progress but not yet synced.
 
 If a record cannot be synced, Mavis explains why and in some cases will tell you what action to take.
+
+## Invalid or missing NHS numbers
+
+Automatic sharing only works if the vaccination record includes a valid NHS number.
+
+If the NHS number is invalid, the record:
+
+- is not sent to NHS England or the child’s GP practice
+- is flagged to superusers in important notices (see [Checking important notices](/guide/notices/))
+
+
+If the NHS number is missing, the record:
+
+- is sent to NHS England
+- cannot be sent to the child’s GP practice
+- is not flagged in important notices
 
 ## If a child self-consents under Gillick competence
 
