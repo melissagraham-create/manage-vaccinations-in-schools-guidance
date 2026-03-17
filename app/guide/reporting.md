@@ -25,7 +25,7 @@ To download a report:
 
 ## Child-level vaccination reports
 
-Child-level vaccination reports include detailed vaccination data for the selected programme. The data only includes vaccinations administered by your team. Each row shows data for one child.
+Child-level vaccination reports include detailed consent and vaccination data for the selected programme. The data only includes vaccinations administered by your team. Each row shows data for one child.
 
 You’ll need to select a file format before downloading the report.
 
@@ -33,7 +33,7 @@ If your team, or the team you’re sharing the data with, uses SystmOne alongsid
 
 ## Aggregate vaccination reports
 
-Aggregate vaccination reports show the total number of children in your cohort who are vaccinated and not vaccinated for the selected programme in the current school year. This includes vaccinations given by other providers.
+Aggregate vaccination reports show consent and vaccination data for the total number of children in your cohort for the selected programme in the current school year. This includes vaccinations given by other providers.
 
 You can choose to break down the data by:
 
