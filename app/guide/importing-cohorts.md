@@ -167,6 +167,11 @@ Resolve close matches in the Imports area:
 
 You can also choose to keep both child records. For example, Mavis may identify twins as a close match. If this happens, select **Keep both records**. The existing record will stay in Mavis and the uploaded record will be added.
 
+If each record contains some correct information:
+
+1. Note any correct information from the record you are not keeping.
+2. Go to the record you are keeping and edit the information there.
+
 Mavis also highlights if the NHS number you provided for a child is different from the NHS number held by PDS. If this happens, Mavis automatically replaces the incorrect NHS number with the correct one from PDS (see below).
 
 > [!NOTE]
