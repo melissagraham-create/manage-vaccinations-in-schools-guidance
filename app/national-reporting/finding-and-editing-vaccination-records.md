@@ -12,17 +12,24 @@ To find a vaccination record that has already been imported:
 2. Search for a child’s record by entering their name or NHS number. You can also filter search results by year group or date of birth.
 3. Click on the child’s name to see their vaccination record.
 
-## Editing children’s details and vaccination records
+## Adding or updating NHS numbers
 
-To edit a child’s details:
+Mavis will automatically replace any incorrect NHS numbers in your upload or add any missing ones found by searching the NHS Patient Demographics Service (PDS, sometimes called ‘the Spine’) overnight.
+
+You can also manually add or change an NHS number by editing the child’s details.
 
 1. Open the child’s record by clicking on their name.
 2. Select **Edit child record**.
-3. Make any changes by selecting **Change**.
-4. Select **Continue**.
-5. When you’ve made all necessary changes, select **Save changes**.
+3. On the NHS number row, select **Change**.
+4. Enter or update the NHS number then select **Continue**.
+5. Select **Continue** again.
 
 ![Screenshot of child record showing edit child record button.](/assets/images/national-reporting/edit-child-record.png)
+
+> [!NOTE]
+> If an NHS number is invalid, Mavis will not send that child’s vaccination record to NHS England. A superuser can identify invalid NHS numbers through important notices.
+
+## Editing a vaccination record
 
 To edit a vaccination record:
 
@@ -36,11 +43,3 @@ To edit a vaccination record:
 ![Screenshot of child record showing edit vaccination record button.](/assets/images/national-reporting/edit-vaccs-record.png)
 
 You can only edit records uploaded by your SAIS team. You can view records uploaded by other teams – for example, if a child moved into your area – but you cannot edit these records.
-
-### Adding or changing NHS numbers
-
-Mavis will automatically replace any incorrect NHS numbers in your upload or add any missing ones found by searching the NHS Patient Demographics Service (PDS, sometimes called ‘the Spine’) overnight.
-
-You can also manually add or change an NHS number by editing the child’s details - see ‘Editing children’s details and vaccination records’, above.
-
-If an NHS number is invalid, Mavis will not send that child’s vaccination record to NHS England. A superuser can identify invalid NHS numbers through important notices.
