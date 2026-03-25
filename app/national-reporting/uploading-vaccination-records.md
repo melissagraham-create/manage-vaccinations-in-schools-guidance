@@ -16,6 +16,9 @@ You can include records from different vaccination programmes in the same file.
 
 Any file that’s compatible with NIVS specifications will also be compatible with national reporting specifications.
 
+> [!NOTE]
+> The date in the DATE_OF_VACCINATION column must be the date the vaccination took place (not the date you are uploading the record, if you’re uploading it later).
+
 For more detailed information about the columns that must be included in the CSV file, select **How to format your CSV file for vaccination records** on the Upload vaccination records page (see Uploading a file, below).
 
 > [!NOTE]
