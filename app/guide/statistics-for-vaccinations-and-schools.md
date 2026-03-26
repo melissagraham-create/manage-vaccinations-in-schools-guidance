@@ -1,12 +1,12 @@
 ---
-title: Statistics for vaccinations, consent and schools
+title: Viewing consent and vaccination data
 theme: Statistics and reports
 order: 33
 ---
 
 The **Reports** area of Mavis lets you:
 
-- view vaccination data for children and schools in your area
+- view consent and vaccination data for children, schools and local authorities in your area
 - download vaccination reports to share with CHIS, GP practices or others
 
 To get there, select **Reports** from the Mavis homepage or the top navigation bar.
@@ -50,9 +50,9 @@ You can use filters to view data for specific vaccine programmes, genders and ye
 
 ![Screenshot of the consent dashboard](/assets/images/reports-consent.png)
 
-## Schools list
+## View data for schools in your area
 
-You can view a list of all schools in your area.
+Use the **Schools** tab to view consent and vaccination data for each school in your area.
 
 1. Select **Reports** from the Mavis homepage or the top navigation bar.
 2. Select the **Schools** tab.
@@ -69,5 +69,23 @@ You can use filters to view data for specific programmes, genders and year group
 ![Screenshot of data for a list of schools.](/assets/images/reports-schools-list.png)
 
 Schools are listed in ascending order by unique reference number (URN).
+
+This data is also available to download as a CSV report (see [Downloading vaccination reports](reporting.md)).
+
+## View data for local authorities in your area
+
+Use the **Local authorities** tab to view consent and vaccination data for each local authority in your area.
+
+1. Select **Reports** from the Mavis homepage or the top navigation bar.
+2. Select the **Local authorities** tab.
+
+For each local authority, you can see the number of children:
+
+in the cohort
+with no consent response
+with consent given
+vaccinated
+
+You can use filters to view data for specific programmes, genders and year groups.
 
 This data is also available to download as a CSV report (see [Downloading vaccination reports](reporting.md)).
