@@ -81,10 +81,10 @@ Use the **Local authorities** tab to view consent and vaccination data for each 
 
 For each local authority, you can see the number of children:
 
-in the cohort
-with no consent response
-with consent given
-vaccinated
+- in the cohort
+- with no consent response
+- with consent given
+- vaccinated
 
 You can use filters to view data for specific programmes, genders and year groups.
 
