@@ -4,6 +4,8 @@ theme: Statistics and reports
 order: 33
 ---
 
+[[toc]]
+
 The **Reports** area of Mavis lets you:
 
 - view consent and vaccination data for children, schools and local authorities in your area
