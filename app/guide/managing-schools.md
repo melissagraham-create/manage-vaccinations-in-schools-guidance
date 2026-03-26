@@ -77,7 +77,7 @@ You can edit a site’s name and/or address, or the year groups it serves.
 4. Make any changes you need to make then select **Continue**.
 5. Review the updated information and select **Save changes**.
 
-### Adding year groups to schools already in Mavis
+## Adding year groups to schools already in Mavis
 
 If a school does not include the correct school years, you can add them. 
 
