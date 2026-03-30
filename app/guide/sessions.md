@@ -1,5 +1,5 @@
 ---
-title: Scheduling and editing sessions
+title: Adding and editing sessions
 theme: Organising sessions
 order: 11
 eleventyComputed:
@@ -21,20 +21,23 @@ You should only schedule sessions after you’ve uploaded vaccination records an
 
 4. Select **Add a new session**.
 5. Select the programmes you will run at the session then **Continue**.
-6. Enter the date the session will run, then select **Continue**.
+6. Enter the date the session will run (if known), then select **Continue**.
 7. Check the session details on the **Check and confirm** page and select **Continue** to save the session.
-
-You can add more than one date for a session. If you do that, parents will get consent requests showing all dates.
 
 You can also create sessions through the Sessions area of Mavis.
 
 1. Go to **Sessions**.
 2. Select **Add a new session** near the top of the page.
-3. Use the radio buttons to indicate whether this is a **school session** or a **community clinic**.
-4. If it’s a school session, search for the school and select it.
-5. Select **Continue** then select the programmes, enter the date and confirm the session details (described in steps 5 to 7 above).
+3. Find the school you want to create a session for and select **Continue**.
+4. Select the programmes and year groups for the session. Enter the session date (if known), then confirm the session details. .
 
 Mavis will automatically send consent requests and reminders from 3 weeks before the scheduled session date. You can change these dates by editing the session (see below).
+
+### Session dates
+
+You can add more than one date for a session. If you do that, parents will get consent requests showing all dates.
+
+If you leave the date fields blank, this will create an unscheduled session which you can add dates to later. 
 
 ## Editing sessions
 
