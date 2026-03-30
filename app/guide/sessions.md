@@ -4,7 +4,7 @@ theme: Organising sessions
 order: 11
 eleventyComputed:
   eleventyNavigation:
-    key: Scheduling and editing sessions
+    key: Adding and editing sessions
 ---
 
 You can create sessions in Mavis for any of the programmes you’re running. You can edit the session details later, if you need to.
