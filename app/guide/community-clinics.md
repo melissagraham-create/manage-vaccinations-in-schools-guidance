@@ -27,7 +27,7 @@ To send clinic invitations to children who belong to a school, but were not vacc
 
 Note that there are no automatic reminders for clinic invitations.
 
-## Inviting individual children to a clinic
+## Inviting individual children
 
 You can invite individual children to a clinic directly from their record in Mavis. If an invitation has already been sent, you can send a reminder instead.
 
@@ -54,11 +54,10 @@ You can manually send clinic invitations in bulk to the parents of children who:
 - have not yet been invited to a clinic
 
 1. From the dashboard, go to **Schools**.
-2. Search for **Home-educated** or **Unknown school**, as needed. 
-3. In the search results, select **Home-educated** or **Unknown school** to view the children in those groups. 
-4. Select **Send clinic invitations** in the top left of the screen.
-5. Select the programmes you want to send invitations for.
-6. Select **Send clinic invitations**. Invitations are sent immediately. 
+2. Search for then select **Home-educated** or **Unknown school**, as needed. 
+3. Select **Send clinic invitations** in the top left of the screen.
+4. Select the programmes you want to send invitations for.
+5. Select **Send clinic invitations**. Invitations are sent immediately. 
 
 You can see which children have been invited to a clinic by using the **Invited to clinic** filter in the Schools view.
 
