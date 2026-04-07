@@ -147,6 +147,10 @@ If you upload the records again with updated school information, Mavis will impo
 
 To approve the upload and import the records into Mavis, select **Approve and import records**.
 
+> [!NOTE]
+> Once a file upload has been approved and imported into Mavis, it will no longer be visible in the **Incomplete uploads** list. It will now be in the **Completed imports** list. You can find it by selecting the Completed imports tab. 
+
+
 In some cases, you will need to do a **further review**. This happens if one or more records have changed since you uploaded the file.
 
 For example, another import may have been approved that includes some of the same records, or a child’s school or NHS number may have changed in Mavis.
