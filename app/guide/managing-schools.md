@@ -41,6 +41,10 @@ You can update children's schools on their record. See [Editing individual child
 
 If a school has more than 1 site you can add them in Mavis.
 
+The new site will have the same URN as the main (parent) school with an extra letter at the end. Mavis will automatically add **A** to the parent school URN, and B to the 1st extra site, C to the 2nd one, and so on.
+
+To add a school site:
+
 1. Go to **Team** by selecting it in the top navigation.
 2. Select **Schools** under the **Your team** heading.
 3. Select **Add a new school site**.
@@ -49,10 +53,6 @@ If a school has more than 1 site you can add them in Mavis.
 ![Screenshot of form to enter details of a new site](/assets/images/add-site.png)
 
 5. Add the name of the site, adjust the address if necessary, and select **Continue**.
-
-> [!NOTE]
-> The new site will have the same URN as the main (parent) school with an extra letter at the end. Mavis will automatically add **A** to the parent school URN, and B to the 1st extra site, C to the 2nd one, and so on.
-
 6. You’ll see the pre-selected year groups for that site. You can deselect any year groups and/or select additional ones as necessary.
 7. Check the details. Select **Back** if you need to change the name or address of the new site, or **Change parent school** if you need to add this site to a different school.
 8. Select **Add site**.
@@ -92,6 +92,4 @@ To add year groups to a school that’s already in Mavis:
 To add year groups to a school site that’s already on Mavis, see Editing school sites (above).
 
 > [!NOTE]
-> You can only add year groups to a school or school site that’s already in Mavis, you cannot remove them.
-
-
+> You can only add year groups to a school or school site that’s already in Mavis - you cannot remove them.
