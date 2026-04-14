@@ -1,20 +1,21 @@
 ---
-title: Sharing vaccination records with GPs and NHS England
+title: Sharing vaccination records
 theme: Recording vaccinations
 order: 30
 ---
 
-All vaccinations recorded in Mavis from Monday 2 March 2026 are automatically shared with NHS England and GP practices. Any vaccinations recorded before this date should be reported manually.
+## GPs and NHS England
 
-You do not need to inform NHS England and GP practices of any vaccinations, except in cases where:
+All vaccinations recorded in Mavis are automatically shared with NHS England and GP practices.
 
-- the vaccinations were recorded before 2 March 2026
-- a child self-consented under Gillick competence and asked for their parents not to be notified (see below)
+You do not need to inform NHS England and GP practices of any vaccinations, except in cases where a child self-consented under Gillick competence and asked for their parents not to be notified (see below).
+
+Once a child’s record has been added to Mavis, any school age vaccinations they get at a GP practice are automatically added to their record in Mavis.
 
 > [!NOTE]
 > You still need to send all vaccination records to CHIS. You should let your CHIS provider know that they do not need to send vaccination records to GP practices because Mavis does this automatically.
 
-## Check whether a record has been shared
+### Check whether a record has been shared
 
 The child’s vaccination record in Mavis will show a **Synced** label when it was successfully synced with NHS England systems.
 
@@ -24,7 +25,7 @@ The record will show a **Sync pending** label if it’s in progress but not yet 
 
 If a record cannot be synced, Mavis explains why and in some cases will tell you what action to take.
 
-## Invalid or missing NHS numbers
+### Invalid or missing NHS numbers
 
 Automatic sharing only works if the vaccination record includes a valid NHS number.
 
@@ -40,7 +41,7 @@ If the NHS number is missing, the record:
 - cannot be sent to the child’s GP practice
 - is not flagged in important notices
 
-## If a child self-consents under Gillick competence
+### If a child self-consents under Gillick competence
 
 If a child self-consents under Gillick competence and asks for their parents not to be informed, the record will not be synced and you must let the child’s GP know they were vaccinated. These records will be flagged to Superusers as an important notice - see [Checking important notices](notices.md).
 
