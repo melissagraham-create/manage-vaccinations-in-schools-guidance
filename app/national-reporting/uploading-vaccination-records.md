@@ -31,11 +31,16 @@ For more detailed information about the columns that must be included in the CSV
 3. Select **Continue**.
 4. You can see the file’s status on the **Incompleted imports** list.
 
-You may need to refresh the page to see the latest status.
+You may need to refresh the page to see the latest status. You can check the upload status at any time.
+
+> [!NOTE]
+> You do not need to wait for one file to finish uploading before starting another upload.
+>
+> You can upload multiple files one after the other. Each file will appear in the Incomplete uploads list while it is being processed.
 
 ## Unsuccessful upload
 
-If there are any validation issues, Mavis will not import the file. It will stay on the **Incomplete imports** list with its status marked as invalid.
+If there are any validation issues, Mavis will not import the file. It will stay on the **Incomplete uploads** list with its status marked as invalid.
 
 ### Viewing and resolving upload issues
 
@@ -50,7 +55,7 @@ You should then:
 
 ## Successful upload
 
-If the file was imported successfully it will no longer be visible on the **Incomplete imports** list. It will now be on the **Completed imports** list.
+If the file was imported successfully it will no longer be visible on the **Incomplete uploads** list. It will now be on the **Completed imports** list.
 
 You can find it by selecting the **Completed imports** tab.
 
