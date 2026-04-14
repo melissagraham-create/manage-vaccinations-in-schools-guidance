@@ -31,7 +31,7 @@ For more detailed information about the columns that must be included in the CSV
 3. Select **Continue**.
 4. You can see the file’s status on the **Incompleted imports** list.
 
-You may need to refresh the page to see the latest status.
+You may need to refresh the page to see the latest status. You can check the upload status at any time.
 
 > [!NOTE]
 > You do not need to wait for one file to finish uploading before starting another upload.
