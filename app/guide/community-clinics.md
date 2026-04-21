@@ -84,6 +84,5 @@ You can record vaccinations given in clinics directly from a child’s record in
 3. Select the vaccination programme. 
 4. Select **Record a vaccination in clinic** near the top of the screen (this button only appears if the child is due the vaccination).
 5. Record a new consent response for the child, if needed. 
-6. Update the child’s attendance to mark them as attending the clinic session.
-7. Record the vaccination, specifying the clinic location when prompted.
+6. Record the vaccination, specifying the clinic location when prompted.
 
