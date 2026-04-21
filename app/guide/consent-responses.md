@@ -6,30 +6,49 @@ order: 13
 
 [[toc]]
 
-Mavis lets you review consent responses for each session.
+## Reviewing consent details for children in a session
+
+You can review consent details for all children in a session. 
+
+First, find the session you’re interested in:
 
 1. Go to **Sessions**.
 2. Filter for **Scheduled** sessions.
-3. Find the session you’re interested in and select it.
-4. Go to the **Children** tab.
-5. Use the filters to see how many consents, refusals and conflicts you have. To see any children with conflicting consent responses, select **Has a refusal** then select **Conflicting consent** in the dropdown.
-6. Click on a child’s name if you want to see more details about consent for that child.
+3. Find the session you want to look at and select it.
 
-For flu, if consent has been given, you’ll be able to see whether this is for:
+On the **Overview** tab you can see how many children in the session have the status **Needs consent** and **Has a refusal** for each programme.
 
-- nasal spray only
-- nasal spray, or injected vaccine if the nasal spray is not suitable
-- injected vaccine only
+The **Action required** section includes links to any children with:
+
+- unmatched consent responses 
+- no consent response
+- follow-up requests
+- conflicting consent
+
+On the **Children in session** tab, you can see the consent status of all children in the session. 
+
 
 ![Screenshot of consent responses for a session.](/assets/images/session-no-consent-response.png 'Mavis shows consent responses for a session grouped by status.')
 
-## Reviewing children who’ve changed schools
+You can also use the **Programme status** filters to show only children matching your selection - for example, select **Needs consent** and **No contact details** to see only those children. 
 
-When a parent submits a consent response, they can also let Mavis know that a child’s school has changed.
+If you want to see more details about consent for a child, select their name to open their record. 
 
-To review a child changing school, follow the instructions on this page of the user guide:
+###Flu and MMR(V) vaccine preferences
 
-- [Reviewing school moves](school-moves.md)
+For flu and MMR(V) vaccinations, Mavis shows you which vaccines the child has consent for. 
+
+For flu, this will be one of the following:
+
+- Nasal spray preferred (where consent has been given for both types of flu vaccine)
+- Nasal spray only
+- Injection only
+
+For MMR or MMV, it will be one of the following:
+
+- No preference
+- Gelatine-free vaccine only
+
 
 ## Reviewing unmatched consent responses
 
@@ -41,7 +60,7 @@ To see unmatched responses for an individual session:
 
 1. Go to **Sessions**.
 2. Find the session you’re interested in and select it.
-3. Any unmatched responses will be flagged in the **Action required** block of the **Overview** tab. Select the link to display them.
+3. If there are any unmatched responses, this will be flagged in the **Action required** section of the **Overview** tab. Select the link to display them.
 
 ![Screenshot of a list of unmatched consent responses.](/assets/images/consent-unmatched.png 'Mavis helps you review unmatched consent responses.')
 
@@ -71,10 +90,10 @@ For flu, ‘conflicting consent’ can also mean that parents have given consent
 
 In both cases, you will need to investigate the conflicting consent and resolve it before the child can be vaccinated.
 
-1. Go to **Sessions** and find the session you’re looking for. Select it.
-2. In the **Children** tab for this session, filter for **Has a refusal** then select **Conflicting consent**.
-3. If you click on the child’s record and scroll down, you’ll see who has said what in their consent responses.
-4. Click on the name of the parent whose consent you want to investigate. This opens their consent response, including their contact details.
+1. Go to **Sessions** and find the session you’re interested in. Select it.
+2. If there are any children with conflicting consent, this will be flagged in the **Action required** section of the **Overview** tab. Select the link to display them.
+3. Select a child's name to open their record. Scroll down to see who has said what in their consent responses.
+4. Select the name of the parent whose consent you want to investigate. This opens their consent response, including their contact details.
 5. Contact the parent to discuss the conflicting consent.
 6. If the parent changes their consent decision when you speak to them, add their new response to the child record manually (see [Recording a new consent response](add-or-remove-consent.md)).
 
