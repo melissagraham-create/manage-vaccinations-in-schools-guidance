@@ -26,7 +26,7 @@ If a child vaccinated under Gillick competence has said not to notify their pare
 
 ## Child is deceased
 
-You do not have to do anything. 
+Mavis will archive the child record automatically. Then you can dismiss the important notice. 
 
 ## Records marked sensitive
 
