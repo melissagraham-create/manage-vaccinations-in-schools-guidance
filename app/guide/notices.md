@@ -42,6 +42,8 @@ If you see that a record has been flagged as sensitive, you need to follow this 
 
 Once you have seen and, if necessary, acted on an important notice, you can dismiss it.
 
+You can also dismiss an important notice after a user has archived the child record. 
+
 ![Screenshot of dismissing an important notice.](/assets/images/dismiss-notices.png)
 
 If you dismiss an important notice it will disappear from the **Import** page for all superusers in your team. It will still be visible on the individual child record.
