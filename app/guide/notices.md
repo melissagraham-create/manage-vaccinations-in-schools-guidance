@@ -26,7 +26,7 @@ If a child vaccinated under Gillick competence has said not to notify their pare
 
 ## Child is deceased
 
-You do not have to do anything. 
+Mavis will archive the child record automatically. Then you can dismiss the important notice. 
 
 ## Records marked sensitive
 
@@ -41,6 +41,8 @@ If you see that a record has been flagged as sensitive, you need to follow this 
 ## Dismissing important notices
 
 Once you have seen and, if necessary, acted on an important notice, you can dismiss it.
+
+You can also dismiss an important notice after a user has archived the child record. 
 
 ![Screenshot of dismissing an important notice.](/assets/images/dismiss-notices.png)
 
