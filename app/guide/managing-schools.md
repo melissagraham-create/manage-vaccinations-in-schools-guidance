@@ -20,6 +20,10 @@ You can do this through the link in your **Getting ready to use Mavis** email or
 
 If your team is responsible for a school, but it was not included in your list, you can add it to Mavis manually.
 
+You can only do this if the school has a URN. If it does not have a URN, contact the Mavis team and ask them to add the school for you.
+
+To add a school manually:
+
 1. Go to the **Team** tab.
 2. Select **Schools**.
 3. Select **Add a new school**.
